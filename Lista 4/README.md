@@ -1,9 +1,8 @@
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/6e78c597-ef29-4c1b-b49e-2a66cad3e280)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/93c04968-a4ca-4819-a93b-5da58ba603e6)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/a08e09a6-0150-4013-80ca-b1d254691859)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/ac335265-ea9f-42f9-9713-4bff4c771f77)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/19386a61-033a-42be-b2e3-37cba4fa8c11)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/f525644a-ef4e-4ac1-9bd7-184a21c4d314)
-![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/83adcb95-d6f1-4439-a0c0-7562f07bbf99)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/3028ae0c-c03c-4ee7-ae1f-c957cf903b7c)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/1d297616-0924-4d01-b75a-32f337f171e6)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/035b7460-05e7-4b71-ae33-8e036c504e7c)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/4b30bc41-df32-46be-a683-046fe5afafc4)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/6d43645d-50e3-4453-bf07-7ef86406771f)
+![image](https://github.com/alberthosc/Automacao-Industrial/assets/53822577/14ab0a7c-8525-46a8-b8f9-207725ad075d)
 
 

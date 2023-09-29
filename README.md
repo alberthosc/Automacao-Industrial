@@ -1,2 +1,2 @@
 # Automacao-Industrial
-Algumas atividades implementadas em CLP em Ladder e Grafcet
+Algumas atividades implementadas em CLP nas linguagens Ladder e Grafcet
